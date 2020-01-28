@@ -1,0 +1,2 @@
+TRUNCATE TABLE `adresse`;
+TRUNCATE TABLE `user`;
